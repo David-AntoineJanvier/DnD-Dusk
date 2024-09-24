@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Kilnea/Kilnea.md",
+                "file": "Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4/Blink dog.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c9584520c985bd23",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Monster Databank/ZMGBIN/Pasted image 20240924013655.png"
               }
             }
           },
@@ -37,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 396.5
   },
   "right": {
     "id": "f9c1c7e219f2ba4e",
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monster Databank/ZMGBIN/Pasted image 20240924013655.png",
+                "file": "Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4/Blink dog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monster Databank/ZMGBIN/Pasted image 20240924013655.png",
+                "file": "Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4/Blink dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monster Databank/ZMGBIN/Pasted image 20240924013655.png"
+                "file": "Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4/Blink dog.md"
               }
             }
           }
@@ -164,54 +153,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1876eb2abbcaac7",
+  "active": "2b36bb11a3272088",
   "lastOpenFiles": [
-    "Monster Databank/Challenge Lvl 4/Weretiger.md",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013655.png",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013649.png",
-    "Monster Databank/Challenge Lvl 4/Wereboar.md",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013633.png",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013627.png",
-    "Monster Databank/Challenge Lvl 4/Succubus.md",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013612.png",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013606.png",
-    "Monster Databank/Challenge Lvl 4/Shadow Demon.md",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013550.png",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013545.png",
-    "Monster Databank/Challenge Lvl 4/Sea Hag (Coven).md",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013530.png",
-    "Monster Databank/ZMGBIN/Pasted image 20240924013526.png",
-    "Monster Databank/Challenge Lvl 4/Red Dragon Wyrmling.md",
-    "Monster Databank/Challenge Lvl 4/Orc Warchief.md",
-    "Monster Databank/Challenge Lvl 4/Lizard King.md",
-    "Monster Databank/Challenge Lvl 4/Lamia.md",
-    "Monster Databank/Challenge Lvl 4/Helmed Horror.md",
-    "Monster Databank/Challenge Lvl 4/Gnoll Fang of Yeenoghu.md",
-    "Monster Databank/Challenge Lvl 4/Ghost.md",
-    "Monster Databank/Challenge Lvl 4/Flameskull.md",
-    "Monster Databank/Challenge Lvl 4/Ettin.md",
-    "Monster Databank/Challenge Lvl 4/Elephant.md",
-    "Monster Databank/Challenge Lvl 4/Couatl.md",
-    "Monster Databank/Challenge Lvl 4/Chuul.md",
-    "Monster Databank/Challenge Lvl 4/Bone Naga.md",
-    "Monster Databank/Challenge Lvl 4/Black Pudding.md",
-    "Monster Databank/Challenge Lvl 4/Banshee.md",
-    "Monster Databank/Challenge Lvl 3/Yuan-Ti Malison.md",
-    "Monster Databank/Challenge Lvl 3/Yeti.md",
-    "Monster Databank/Challenge Lvl 3/Winter Wolf.md",
-    "Monster Databank/Challenge Lvl 3/Wight.md",
-    "Monster Databank/Challenge Lvl 3/Werewolf.md",
-    "Monster Databank/Challenge Lvl 3/Water Weird.md",
-    "Dusk/ZMGBIN",
-    "Monster Databank/Challenge Lvl -1",
-    "Monster Databank/Challenge Lvl 4",
-    "Monster Databank/Challenge Lvl 3",
-    "Monster Databank/Challenge Lvl 2",
-    "Monster Databank/Challenge Lvl 1",
-    "Monster Databank/Challenge Lvl -1/Challenge Lvl 1_2",
-    "Monster Databank/ZMGBIN/Test canvas.canvas",
-    "Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4",
-    "Monster Databank/ZMGBIN",
-    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0"
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Cat.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Awakened Shrub.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Baboon.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Badger.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Bat.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Commoner.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Crab.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Crawling claw.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Deer.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Eagle.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Hawk.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Frog.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Giant Fire Beetle.md",
+    "Monster Databank/Challenge Lvl -1/Challenge Lvl 0/Goat.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 30/Tarrasque.md",
+    "Monster Databank/ZMGBIN/Pasted image 20240924160001.png",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155957.png",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 24/Ancient Red Dragon.md",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155941.png",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155936.png",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 24/Ancient Gold Dragon.md",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155923.png",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155918.png",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 23/Empyrean.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 23/Kraken.md",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155858.png",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155853.png",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155836.png",
+    "Monster Databank/ZMGBIN/Pasted image 20240924155831.png",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 23/Ancient Blue Dragon.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 23/Ancient Silver Dragon.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 22/Lich (In Lair).md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 22/Ancient Green Dragon.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 22/Ancient Bronze Dragon.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 21/Solar.md",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 21/Lich (Not in Lair).md",
+    "Monster Databank/Challenge Lvl 15-20",
+    "Monster Databank/Challenge Lvl 8-14",
+    "Monster Databank/Challenge Lvl 1-7",
+    "Monster Databank/Challenge Lvl 21+",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 30",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 24",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 23",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 22",
+    "Monster Databank/Challenge Lvl 21+/Challenge Lvl 21",
+    "Monster Databank/Challenge Lvl 15-20/Challenge Lvl 20",
+    "Monster Databank/ZMGBIN/Test canvas.canvas"
   ]
 }
