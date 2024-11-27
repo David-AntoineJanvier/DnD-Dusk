@@ -1,0 +1,1 @@
+Une organisation qui se concentre sur l'étude de [[K'inich Ahau (Esprit Esprit primordial du Soleil)]] et qui a aussi pour but de le libérer de sa prison pour qu'il puisse les guider vers la terre sacrée [[Itlimok]].

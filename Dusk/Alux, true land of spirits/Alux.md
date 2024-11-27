@@ -1,0 +1,1 @@
+Similaire à Feywild, il s'agit d'une autre plaine d'existence qui est aussi la plaine d'origine des esprits.

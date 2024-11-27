@@ -1,0 +1,2 @@
+Gives darkvision
+Takes ability

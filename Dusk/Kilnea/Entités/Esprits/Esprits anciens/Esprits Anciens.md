@@ -1,2 +1,0 @@
-
-[[Alagen, Chasseur d'Aube]]

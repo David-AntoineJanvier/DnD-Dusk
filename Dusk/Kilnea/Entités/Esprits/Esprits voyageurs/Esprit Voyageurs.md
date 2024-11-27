@@ -1,1 +1,0 @@
-Ces esprits prennent une forme plus petite que les autres classes
