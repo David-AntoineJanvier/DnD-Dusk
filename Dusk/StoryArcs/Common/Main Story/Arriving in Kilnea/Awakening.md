@@ -1,1 +1,0 @@
-Les aventuriers se réveillent sur la plage de [[Wurmwater]]

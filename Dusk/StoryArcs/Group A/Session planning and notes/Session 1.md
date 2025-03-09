@@ -12,12 +12,13 @@ Win -> Si les joueurs cherchent [[Fitz]], il a déjà disparu, mais il laisse de
 Loss/Before Death -> Les gardes arrivent
 
 City exploration???
+[[Basic Supply Stores]]
 
 [[Pasaj Hideout]]
 
 [[Boat Intro Scene]]
 
-
+Les joueurs obtiennent la première itération de [[Touché par les esprits]] représentée par une marque sur le poignet de la main non-dominante
 
 
 

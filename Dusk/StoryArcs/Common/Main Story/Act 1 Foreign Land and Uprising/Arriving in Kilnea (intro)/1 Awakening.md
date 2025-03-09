@@ -1,0 +1,1 @@
+Les aventuriers se réveillent sur la plage de [[Wurmwater]], il semble y avoir une route quoiqu'en mauvais état qui s'étend jusqu'à l'horizon.

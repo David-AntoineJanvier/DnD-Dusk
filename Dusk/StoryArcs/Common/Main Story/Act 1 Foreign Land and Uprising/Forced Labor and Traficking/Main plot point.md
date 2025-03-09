@@ -1,0 +1,1 @@
+Des résidents de Faron se font kidnapper par la nobilité en collaboration avec des bandits d'un peu partout dans le pays. Ces résidents sont forcés à travailler dans les [[Mines de Hildem]] au nord du pays
