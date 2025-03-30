@@ -81,14 +81,12 @@
             "id": "73738beed04d0918",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
-                "mode": "source",
-                "source": false
+                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMap.jpg"
               },
-              "icon": "lucide-file",
-              "title": "WanderWine Hub"
+              "icon": "lucide-image",
+              "title": "FaronMap"
             }
           }
         ],
@@ -165,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WanderWine Hub"
+              "title": "Backlinks"
             }
           },
           {
@@ -211,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/Faronmapgriddedaa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WanderWine Hub"
+              "title": "Outline of Faronmapgriddedaa"
             }
           }
         ],
@@ -237,10 +234,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73738beed04d0918",
+  "active": "d1876eb2abbcaac7",
   "lastOpenFiles": [
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Avicenne.md",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMapHexGridded.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMap.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/Faronmapgriddedaa.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Avicenne.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Illya, maitresse de la tarverne.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Jack.md",
@@ -281,10 +281,7 @@
     "Dusk/Common/Disposable/Dead",
     "Dusk/Common/Disposable",
     "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
-    "FaronMap.jpg",
     "Introductionnal video.md",
-    "Dusk/Common/ZCustomMechanics/Touché par les esprits.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Sarn/Sarn.md",
     "Monster Databank/ZMGBIN/Test canvas.canvas"
   ]
 }
