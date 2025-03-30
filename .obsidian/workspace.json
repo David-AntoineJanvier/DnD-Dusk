@@ -8,48 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27ce93e5e1f4a497",
+            "id": "3987947827403fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leather Work Store Sheet.md",
+                "file": "Dusk/StoryArcs/Group A/Session planning and notes/Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leather Work Store Sheet"
+              "title": "Session 2"
             }
           },
           {
-            "id": "2ee4c9e65cc9304c",
+            "id": "cf06762087c72cfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits anciens/Liste/Alagen, Chasseur d'Aube.md",
+                "file": "Dusk/Common/TESS/Tess-Wurmwater-Lomei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alagen, Chasseur d'Aube"
+              "title": "Tess-Wurmwater-Lomei"
             }
           },
           {
-            "id": "b36135a56d2f9e14",
+            "id": "7f736164f7f1f9b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Faron Grasslands.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits voyageurs/Liste/Patli, L'Esprit Cartographe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faron Grasslands"
+              "title": "Patli, L'Esprit Cartographe"
+            }
+          },
+          {
+            "id": "4334f3deb442d819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monster Databank/Challenge Lvl 1-7/Challenge Lvl 3/Mage Mole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mage Mole"
+            }
+          },
+          {
+            "id": "396b5d8d63755506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "73738beed04d0918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WanderWine Hub"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fit",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 435.5
   },
   "right": {
     "id": "f9c1c7e219f2ba4e",
@@ -122,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leather Work Store Sheet.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Leather Work Store Sheet"
+              "title": "Backlinks for WanderWine Hub"
             }
           },
           {
@@ -168,13 +211,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dusk/Mainland/Durand (DM Info)/Places/POI/Pasaj Hideout.md"
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasaj Hideout"
+              "title": "Outline of WanderWine Hub"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,54 +237,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27ce93e5e1f4a497",
+  "active": "73738beed04d0918",
   "lastOpenFiles": [
-    "Pasted image 20250309130902.png",
-    "Dusk/Notes to sort/Basic Supply Stores.md",
-    "Leather Work Store Sheet.md",
-    "Dusk/StoryArcs/Group A/Session planning and notes/Session 1.md",
-    "Dusk/TODO.md",
-    "Dusk/ZMGBIN/Pasted image 20250309001230.png",
-    "Dusk/ZMGBIN/Pasted image 20250309001550.png",
-    "Dusk/ZMGBIN/Pasted image 20250217191427.png",
-    "Dusk/ZMGBIN/G_MagicPopupShop_Alleyway_Day.jpg",
-    "Dusk/ZMGBIN/G_MagicPopupShop_Alleyway_Night.jpg",
-    "Dusk/ZMGBIN/G_MonsterGenealogyLab_Ritual.jpg",
-    "Dusk/ZMGBIN/G_WarRoomInterior_Original_Day.jpg",
-    "Dusk/ZMGBIN/Pasted image 20250217193200.png",
-    "Dusk/ZMGBIN/Pasted image 20250217190705.png",
-    "Dusk/Notes to sort/Fletcher Store Sheet.md",
-    "Dusk/Notes to sort/Armory Store Sheet.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Faron Grasslands.md",
-    "Dusk/ZMGBIN/Pasted image 20250217191352.png",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits anciens/Liste/Alagen, Chasseur d'Aube.md",
-    "Dusk/Common/CopperFang Bandits/CopperFang Bandits.md",
-    "Dusk/Continents/Mainland/Durand (DM Info)/Places/Scenes/Boat Intro Scene.md",
-    "Dusk/StoryArcs/Common/Main Story/Act 1 Foreign Land and Uprising/Arriving in Kilnea (intro)/1 Awakening.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Le Shaq à Magie.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/La Chope Gobline.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Sidequests/(Bounty) aa.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Sidequests/(Bounty) BB.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Sidequests/(Bounty) CC.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Sidequests/(Delivery) Le message de Shaq (Jack).md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Avicenne.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Illya, maitresse de la tarverne.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Jack.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Untitled",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Lowe, ainé de Lomei.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/Places/Auberge du Vieux Chêne.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/Lubel.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Ravia/Ravia.md",
-    "Dusk/Continents/Kilnea (DM Info)/Kilnea.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Duskstone/Quests",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Duskstone/People",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Duskstone/Places",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Duskstone",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rathel/Quests",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rathel/Places",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rathel/People",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rathel",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Voy/Quests",
+    "Dusk/TODO.md",
+    "Dusk/Common/TESS/Tess-Wurmwater-Lomei.md",
+    "Dusk/StoryArcs/Group A/Session planning and notes/Session 2.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits voyageurs/Liste/Patli, L'Esprit Cartographe.md",
+    "Monster Databank/Challenge Lvl 1-7/Challenge Lvl 3/Mage Mole.md",
+    "Dusk/Continents/Alux, true land of spirits/Labyrinthes/Knox Labyrinth",
+    "Pasted image 20250330102254.png",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Spirit Names list.md",
+    "Dusk/Common/Disposable/Dead/Jacques de la Gourde.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/NPCs/Tim Bramblebeard.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/NPCs",
+    "Pasted image 20250329232015.png",
+    "Dusk/ZMGBIN/Pasted image 20250328160802.png",
+    "Dusk/ZMGBIN/Pasted image 20250329231924.png",
+    "Dusk/ZMGBIN/Pasted image 20250329231901.png",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Lomei Hotel de Ville.md",
+    "Dusk/Common/TESS/Tess-Wurmwater-Lomei/Untitled.md",
+    "Dusk/Common/TESS/Tess-Wurmwater-Lomei",
+    "Dusk/Common/ZCustomMechanics/Battlefield Actions.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Faron Grasslands.md",
+    "Dusk/Common/TESS",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Regionless/Important characters/Warweaver.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Named Locations/Wurmwater Bay.md",
+    "Dusk/Common/Items/Consummables/Potions/Potion of healing.md",
+    "Decanter of Endless Water.md",
+    "Dusk/ZMGBIN/Pasted image 20250328214948.png",
+    "Dusk/ZMGBIN/Pasted image 20250328214932.png",
+    "Dusk/ZMGBIN/Pasted image 20250328214803.png",
+    "Dusk/Common/Items/Consummables/Potions",
+    "Dusk/Common/Items/Consummables",
+    "Dusk/ZMGBIN/Pasted image 20250328210348.png",
+    "Dusk/Common/Items",
+    "Dusk/Common/Disposable/Dead",
+    "Dusk/Common/Disposable",
+    "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
+    "FaronMap.jpg",
+    "Introductionnal video.md",
+    "Dusk/Common/ZCustomMechanics/Touché par les esprits.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Sarn/Sarn.md",
     "Monster Databank/ZMGBIN/Test canvas.canvas"
   ]
 }

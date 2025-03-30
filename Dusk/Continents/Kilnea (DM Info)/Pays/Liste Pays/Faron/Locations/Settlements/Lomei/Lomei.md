@@ -11,9 +11,12 @@ Other details:
 Bâtiments Importants 
 	[[La Chope Gobline]]
 	[[Le Shaq à Magie]]
+	[[Lomei Hotel de Ville]]
 
 NPC Importants
 	[[Illya, maitresse de la tarverne]]
+	[[Jack]]
+	[[Lowe, ainé de Lomei]]
 
 Sidecontent:
 [[()]]

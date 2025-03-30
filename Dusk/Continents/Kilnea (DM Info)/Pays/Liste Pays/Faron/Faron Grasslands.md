@@ -2,3 +2,4 @@
 	Monarchie
 	Climat Tempéré
 
+![[FaronMap.jpg]]

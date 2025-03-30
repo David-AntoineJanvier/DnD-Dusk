@@ -11,7 +11,6 @@ Colel
 Gabor
 Itzel
 Bembe
-Patli
 Akna
 Chaac
 Eadrich
