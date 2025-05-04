@@ -14,9 +14,10 @@ Bâtiments Importants
 	[[Lomei Hotel de Ville]]
 
 NPC Importants
-	[[Illya, maitresse de la tarverne]]
-	[[Jack]]
-	[[Lowe, ainé de Lomei]]
+	[[Lowe Gadwell]]
+	[[Avicenne Forio]]
+	[[Monique Forio]]
+	[[Etienne Forio]]
 
 Sidecontent:
 [[()]]

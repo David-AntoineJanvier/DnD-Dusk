@@ -1,10 +1,9 @@
 urgent:
-	-Design a wandering spirit for session 2 (mapmaker spirit)
-	-[[Lomei]] map
+	-design basic shops to be used wherever and travelers
 	-Further flesh out [[Lomei]]
-	-Advance SubPlot lines for [[Lomei]]
-	-Design Encounter for path to Lomei
+		bakery, description of the overall atmosphere, what is happening with [[Lowe Gadwell]], Add notes describing what happened for group a
+	-Advance SubPlot lines for [[Lomei]] (kidnappings)
 	-Focus first story arc
 
 Semi-urgent:
-	-Develop surrounding areas
+	-Develop surrounding areas ([[Kizan]], [[Blackwell]])

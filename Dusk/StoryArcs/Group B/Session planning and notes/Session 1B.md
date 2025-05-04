@@ -1,3 +1,6 @@
+get will a spellcasting focus
+[[Arcane Shop]]
+
 Social encounter avec le marchant de fruits pour essayer d'obtenir de l'information.
 
 City exploration???
@@ -17,10 +20,6 @@ City exploration???
 [[Pasaj Hideout]]
 
 [[Boat Intro Scene]]
-
-Les joueurs obtiennent la première itération de [[Touché par les esprits]] représentée par une marque sur le poignet de la main non-dominante
-
-
 
 
 

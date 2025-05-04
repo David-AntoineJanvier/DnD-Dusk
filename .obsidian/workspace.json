@@ -8,89 +8,69 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3987947827403fce",
+            "id": "df7f66f504b4adc0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "FaronInteractiveMap"
+            }
+          },
+          {
+            "id": "29e56b5a9e6d74bb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/StoryArcs/Group B/Party B.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Party B"
+            }
+          },
+          {
+            "id": "18fba27b2e718b30",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/StoryArcs/Group B/Session planning and notes/Session 1B.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 1B"
+            }
+          },
+          {
+            "id": "dee984f72c6ea9e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/StoryArcs/Group A/Session planning and notes/Session 2.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
-            }
-          },
-          {
-            "id": "cf06762087c72cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/Common/TESS/Tess-Wurmwater-Lomei.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tess-Wurmwater-Lomei"
-            }
-          },
-          {
-            "id": "7f736164f7f1f9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits voyageurs/Liste/Patli, L'Esprit Cartographe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Patli, L'Esprit Cartographe"
-            }
-          },
-          {
-            "id": "4334f3deb442d819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monster Databank/Challenge Lvl 1-7/Challenge Lvl 3/Mage Mole.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mage Mole"
-            }
-          },
-          {
-            "id": "396b5d8d63755506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "73738beed04d0918",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMap.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FaronMap"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 271.5
   },
   "right": {
     "id": "f9c1c7e219f2ba4e",
@@ -163,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMapHexGridded.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +153,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for FaronMapHexGridded"
             }
           },
           {
@@ -208,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/Faronmapgriddedaa.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Faronmapgriddedaa"
+              "title": "Outline of Lomei"
             }
           }
         ],
@@ -222,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,57 +213,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d1876eb2abbcaac7",
+  "active": "dee984f72c6ea9e9",
   "lastOpenFiles": [
-    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMapHexGridded.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMap.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/Faronmapgriddedaa.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub/WanderWine Hub.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Avicenne.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Illya, maitresse de la tarverne.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Jack.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/People/Lowe, ainé de Lomei.md",
+    "Dusk/ZMGBIN/Durand.png",
+    "Dusk/ZMGBIN/Pasted image 20250504153600.png",
+    "Dusk/ZMGBIN/Pasted image 20250504153550.png",
+    "Dusk/ZMGBIN/Pasted image 20250504153500.png",
+    "Untitled.md",
+    "Dusk/StoryArcs/Group B/Session planning and notes/Session 1B.md",
+    "Templates/Shop Templates/Arcane Shop.md",
+    "README.md",
+    "Dusk/StoryArcs/Group B/Party B.md",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
+    "Dusk/StoryArcs/Group A/Party A.md",
+    "Templates/NPC Template.md",
+    "Gerard.md",
+    "Templates/Map Template.md",
+    "Templates/Shop Templates/Alchemist.md",
+    "Templates/Shop Templates",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Le Shaq à Magie.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md",
-    "Dusk/TODO.md",
-    "Dusk/Common/TESS/Tess-Wurmwater-Lomei.md",
-    "Dusk/StoryArcs/Group A/Session planning and notes/Session 2.md",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits voyageurs/Liste/Patli, L'Esprit Cartographe.md",
-    "Monster Databank/Challenge Lvl 1-7/Challenge Lvl 3/Mage Mole.md",
-    "Dusk/Continents/Alux, true land of spirits/Labyrinthes/Knox Labyrinth",
-    "Pasted image 20250330102254.png",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Spirit Names list.md",
-    "Dusk/Common/Disposable/Dead/Jacques de la Gourde.md",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/NPCs/Tim Bramblebeard.md",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/NPCs",
-    "Pasted image 20250329232015.png",
-    "Dusk/ZMGBIN/Pasted image 20250328160802.png",
-    "Dusk/ZMGBIN/Pasted image 20250329231924.png",
-    "Dusk/ZMGBIN/Pasted image 20250329231901.png",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Lomei Hotel de Ville.md",
-    "Dusk/Common/TESS/Tess-Wurmwater-Lomei/Untitled.md",
-    "Dusk/Common/TESS/Tess-Wurmwater-Lomei",
-    "Dusk/Common/ZCustomMechanics/Battlefield Actions.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Faron Grasslands.md",
-    "Dusk/Common/TESS",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/Regionless/Important characters/Warweaver.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Named Locations/Wurmwater Bay.md",
-    "Dusk/Common/Items/Consummables/Potions/Potion of healing.md",
-    "Decanter of Endless Water.md",
-    "Dusk/ZMGBIN/Pasted image 20250328214948.png",
-    "Dusk/ZMGBIN/Pasted image 20250328214932.png",
-    "Dusk/ZMGBIN/Pasted image 20250328214803.png",
-    "Dusk/Common/Items/Consummables/Potions",
-    "Dusk/Common/Items/Consummables",
-    "Dusk/ZMGBIN/Pasted image 20250328210348.png",
-    "Dusk/Common/Items",
-    "Dusk/Common/Disposable/Dead",
-    "Dusk/Common/Disposable",
-    "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
+    "Templates/Settlement Template.md",
     "Introductionnal video.md",
+    "Dusk/Common/Items/Magic items",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Zither/Zither.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Skif/Skif.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/La Chope Gobline.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Lomei Hotel de Ville.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rondon/Rondon.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rondon",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Rowan/Rowan.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Voy/Voy.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Veil/Veil.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Talion/Talion.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Sarn/Sarn.md",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMapHexGridded.jpg",
+    "Templates",
+    "Dusk/ZMGBIN/Pasted image 20250426151238.png",
+    "Dusk/ZMGBIN/Pasted image 20250404224128.png",
+    "Dusk/ZMGBIN/Pasted image 20250329232015.png",
+    "Dusk/ZMGBIN/Pasted image 20250404223822.png",
+    "Dusk/ZMGBIN/Pasted image 20250404223800.png",
+    "Dusk/ZMGBIN/Pasted image 20250404223735.png",
+    "Dusk/Common/Shops Templates",
+    "Dusk/Common/Unassigned NPC",
+    "Dusk/StoryArcs/Group B/Session planning and notes/Past",
+    "Dusk/StoryArcs/Group B/Session planning and notes",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine Hub",
+    "Dusk/Continents/Alux, true land of spirits/Labyrinthes/Knox Labyrinth",
     "Monster Databank/ZMGBIN/Test canvas.canvas"
   ]
 }
