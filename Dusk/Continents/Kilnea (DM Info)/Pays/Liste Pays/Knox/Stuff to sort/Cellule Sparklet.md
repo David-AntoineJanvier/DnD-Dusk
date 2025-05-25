@@ -1,0 +1,1 @@
+Principale source d'énergie utilisée par les habitant de [[Knox, Land of Deceit]] et ses technologies.

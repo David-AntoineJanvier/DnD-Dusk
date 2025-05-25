@@ -1,5 +1,4 @@
 Info
-	Nom:
 	Age Env.: 
 	Faction: 
 	Locations: [[]]

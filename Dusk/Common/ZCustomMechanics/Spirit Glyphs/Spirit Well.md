@@ -1,0 +1,1 @@
+Characters may cleanse themselves of any [[Primordial Corruption]] stacks and up to one unwanted [[Spirit Glyphs]] per visit at a spirit well. Characters may not visit and benefit from the same well more than once.

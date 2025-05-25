@@ -20,4 +20,4 @@ NPC Importants
 	[[Etienne Forio]]
 
 Sidecontent:
-[[()]]
+[[La meilleure bière de Faron]]

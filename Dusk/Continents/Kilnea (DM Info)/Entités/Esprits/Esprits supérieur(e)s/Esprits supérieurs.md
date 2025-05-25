@@ -7,4 +7,6 @@ Liste:
 [[Rah Saasil (The great Light)]]
 [[Rah Sabiduriah (The great Wisdom)]]
 
-Les esprits supérieurs ont chacun hérité d'une partie du pouvoir de [[K'awiil (Esprit primordiale de la Lune)]].
+Esprits qui représentent un concept plutôt que quelque chose de matériel, chaque concept est quand même relié à un élément naturel (ex: lumière, eau, roche, éclairs etc.)
+
+Capables de forger un pacte avec un individu à la fois (Voir [[Superior Glyphs]])
