@@ -26,3 +26,7 @@ actions:
 ```
 
 Collective Rations: 
+purp
+na
+purp
+red

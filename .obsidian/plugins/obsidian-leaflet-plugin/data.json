@@ -1,9 +1,37 @@
 {
   "mapMarkers": [
     {
+      "id": "MapCalcExample",
+      "lastAccessed": 1749168535702,
+      "markers": [
+        {
+          "id": "ID_5bc8da5a3b58",
+          "type": "default",
+          "loc": [
+            825.59375,
+            449.27303708831437
+          ],
+          "link": "Lomei Hotel de Ville",
+          "layer": "%5B%5Blomeipng.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md"
+      ]
+    },
+    {
       "id": "FaronMap",
       "locked": false,
-      "lastAccessed": 1748131813199,
+      "lastAccessed": 1749169985309,
       "markers": [
         {
           "id": "ID_c84ad94bcaaa",

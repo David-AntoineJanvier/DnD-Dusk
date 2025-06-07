@@ -9,4 +9,6 @@ Event 2 : Blue Antidote and other potions travelling seller
 Event 3:  Orange
 	Les aventuriers sont attaqués dans un champs de plantes hallucinogènes par une [[Mage Mole]]. S'ils n'ont pas pris d'antidote pour les halucinogènes alors -2 sur les perception check. La mole commence avec 9 burrows
 
+[[Lomei]]
+
 

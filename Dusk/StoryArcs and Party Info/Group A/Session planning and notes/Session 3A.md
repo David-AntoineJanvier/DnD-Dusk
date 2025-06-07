@@ -1,3 +1,7 @@
+What happened:
+	Vous avez appris la nature de [[Lowe Gadwell]] auprès d'[[Avicenne Forio]]. Vous avez defeat [[Gram Sterack]] qui s'est désintégré en lumière après avoir surutilisé son glyphe. Le glyphe est retourné au ruines 
+_________________________________________________________________
+
 On reprend dans l'hotel de ville avec [[Lowe Gadwell]] qui dort et [[Avicenne Forio]] vient les voir pour expliquer exactement qui est [[Lowe Gadwell]] en même temps d'appliquer une pomade à ses blessures.
 
 Pendant les explications d'[[Avicenne Forio]], la cloche se met à sonner et il se cache en dessous du lit. Il crie d'une voix tremblotante: "Ahhhh, les bandits sont revenu!"
