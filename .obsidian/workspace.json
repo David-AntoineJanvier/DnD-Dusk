@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "383bdd2d90ab1673",
+        "id": "dde54c7cfaa61d46",
         "type": "tabs",
+        "dimension": 65.97633136094674,
         "children": [
           {
             "id": "df7f66f504b4adc0",
@@ -24,50 +25,39 @@
             }
           },
           {
-            "id": "90f68dda716a25bc",
+            "id": "972087c1b3df3b1a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md",
+                "file": "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Session 4A.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Lomei"
+              "title": "Session 4A"
             }
           },
           {
-            "id": "68b22893e4a2bb6c",
+            "id": "66cce82533c868f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Garpet Laret.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Garnet Laret.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garpet Laret"
-            }
-          },
-          {
-            "id": "e377435cb869e561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 1B.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1B"
+              "title": "Garnet Laret"
             }
           },
           {
             "id": "750027644cb72eb9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -75,12 +65,78 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TESS X Hexcrawl Travel"
             }
+          },
+          {
+            "id": "1f5ed6cb3263cf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Kizan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kizan"
+            }
+          },
+          {
+            "id": "f13430b04fc28fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Guiger Mog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guiger Mog"
+            }
+          },
+          {
+            "id": "9bb618ca62aff870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Places/Mines de Kizan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mines de Kizan"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "36702f1cc576e31c",
+        "type": "tabs",
+        "dimension": 34.023668639053255,
+        "children": [
+          {
+            "id": "f3694978892b807d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/StoryArcs and Party Info/Group A/Party/Party A.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Party A"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,37 +283,42 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e377435cb869e561",
+  "active": "972087c1b3df3b1a",
   "lastOpenFiles": [
-    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Garpet Laret.md",
-    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 1B.md",
-    "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
-    "Dusk/ZMGBIN/Pasted image 20250607160753.png",
-    "Mystra, mère de la magie.md",
-    "Dusk/Continents/Mainland/Durand (DM Info)/Places/POI/Pasaj Hideout.md",
-    "Templates/Shop Templates/Basic Supply Stores.md",
-    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Session 2B.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Garnet Laret.md",
     "Dusk/StoryArcs and Party Info/Group A/Party/Party A.md",
-    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Past/Session 1A.md",
-    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Past/Session 2A.md",
-    "Dusk/Continents/Mainland/Durand (DM Info)/Places/Scenes/AlleyWayMap.md",
-    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 2/Assassin Bandit.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Knox, Land of Deceit.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Lomei Hotel de Ville.md",
+    "Dusk/ZMGBIN/Pasted image 20250703174500.png",
+    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Session 4A.md",
+    "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Guiger Mog.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Places/Mines de Kizan.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Dahl Remnants.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Kizan.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Places/Le Shaq à Magie.md",
-    "Dusk/TODO.md",
-    "Dusk/Common/Unassigned NPC/Jack.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Sidequests/Les Aventures de Monique.md",
-    "Dusk/Continents/Kilnea (DM Info)/Entités/Regionless/Important characters/Warweaver.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Milice Naine.md",
+    "OtherInfo/Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4/Goblin.md",
+    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 1/Giant Spider.md",
+    "Dusk/Common/Items/Consummables/Potions/Potion of healing.md",
+    "Dusk/Common/Items/Magic items/Bag of Holding.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Dahl Magic Items List.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Réseau de cavernes annexes (Dahl Remnants).md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Garlet Laret.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine",
+    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 1/Dahl Leaper.md",
+    "Dusk/ZMGBIN/Pasted image 20250703163508.png",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants",
+    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 3/Phase Spider.md",
+    "Dusk/ZMGBIN/Pasted image 20250702163210.png",
+    "Dusk/Common/ZCustomMechanics/Spirit Glyphs/Primordial Glyphs/Night/Glyph of Grasping Dark.md",
+    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Past/Session 3A.md",
+    "Dusk/Common/ZCustomMechanics/Spirit Glyphs/Primordial Glyphs/Night/Glyph of Binding (Medium).md",
+    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 4/Spirit Blessed Barbarian Priest.md",
+    "Dusk/Common/ZCustomMechanics/Spirit Glyphs/Primordial Glyphs/Day/Glyph of Blinding Light.md",
+    "Dusk/Common/ZCustomMechanics/Spirit Glyphs/Primordial Glyphs/Day/Glyph of Minor Restoration.md",
+    "Dusk/ZMGBIN/Pasted image 20250607160753.png",
     "Dusk/ZMGBIN/Pasted image 20250605201338.png",
     "Dusk/ZMGBIN/Pasted image 20250605201016.png",
     "Dusk/ZMGBIN/lomeipng.png",
-    "Dusk/Common/TESS/Faron/Tess-Wurmwater-Lomei.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/People/Raphael DeShawn.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Sarn/People/Bandits de la Charnière Grinçante/Gram Sterack.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/People/Les chasseurs de l'Orge",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Stuff to sort",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands/Westpoint/Places/Fabrique de cellules Sparklet",
@@ -266,14 +327,9 @@
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands/Westpoint",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People/Guilde des VapoMarchands/Untitled",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People/Guilde des Vapomarchands d'Oryx",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People",
     "Dusk/ZMGBIN/Pasted image 20250516144118.png",
     "Dusk/ZMGBIN/Pasted image 20250515105532.png",
     "Dusk/ZMGBIN/Pasted image 20250515105459.png",
-    "Dusk/ZMGBIN/Pasted image 20250515105416.png",
-    "Dusk/ZMGBIN/Durand.png",
-    "Dusk/ZMGBIN/Pasted image 20250504153600.png",
     "OtherInfo/Monster Databank/ZMGBIN/Test canvas.canvas"
   ]
 }

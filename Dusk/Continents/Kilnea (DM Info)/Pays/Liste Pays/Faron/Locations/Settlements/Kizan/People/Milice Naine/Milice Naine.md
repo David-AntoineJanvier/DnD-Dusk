@@ -1,0 +1,2 @@
+Un groupe de nains mineurs qui font aussi la garde du village dans leurs jours de repos ils sont divisés en deux groupes qui sont dirigés par les frères de [[Garpet Laret]]: [[Garlet Laret]] et [[Garnet Laret]]. 
+Ils sont plutôt mal équipés mais ils sont quand même très flamboyants.

@@ -1,5 +1,5 @@
 What happened:
-	Vous avez appris la nature de [[Lowe Gadwell]] auprès d'[[Avicenne Forio]]. Vous avez defeat [[Gram Sterack]] qui s'est désintégré en lumière après avoir surutilisé son glyphe. Le glyphe est retourné au ruines 
+	Vous avez appris la nature de [[Lowe Gadwell]] auprès d'[[Avicenne Forio]]. Vous avez defeat [[Gram Sterack]] qui s'est désintégré en lumière après avoir surutilisé son glyphe. Le glyphe est retourné au ruines ou vous avez obtenus vos glyphes (voir vos character sheets updatées) Vous vous êtes ensuite dirigés vers [[Kizan]] à l'est pour aider l'ombre à "L'Est passé les montagnes". À [[Kizan]] vous avez acheté des rations et [[Mille-Étoile]] à fait apparaitre une baril de bière dans sa panique après l'arrivée d'un garde. Vous êtes à la recherche d'un mineur nommé [[Garpet Laret]]. Vous avez aussi appris que les mines sont dangereuses récemment et qu'il est difficile de collecter des métaux pour le commerce.
 _________________________________________________________________
 
 On reprend dans l'hotel de ville avec [[Lowe Gadwell]] qui dort et [[Avicenne Forio]] vient les voir pour expliquer exactement qui est [[Lowe Gadwell]] en même temps d'appliquer une pomade à ses blessures.
