@@ -15,11 +15,11 @@
       "key": "="
     }
   ],
-  "obsidian-git:commit-specified-message": [
+  "app:open-help": [],
+  "obsidian-git:commit-push-specified-message": [
     {
       "modifiers": [],
       "key": "F1"
     }
-  ],
-  "app:open-help": []
+  ]
 }
