@@ -14,5 +14,12 @@
       ],
       "key": "="
     }
-  ]
+  ],
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": []
 }
