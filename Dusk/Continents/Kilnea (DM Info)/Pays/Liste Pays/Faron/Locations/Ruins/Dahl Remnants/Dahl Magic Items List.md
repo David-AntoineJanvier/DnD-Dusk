@@ -1,1 +1,1 @@
-[[Bag of Holding]]
+[[Dusk/Common/Items/Magic items/Bag of Holding]]

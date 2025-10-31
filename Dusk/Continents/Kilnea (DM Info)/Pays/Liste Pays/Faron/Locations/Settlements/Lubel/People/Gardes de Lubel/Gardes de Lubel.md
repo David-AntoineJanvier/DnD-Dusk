@@ -1,0 +1,1 @@
+Des gardes armées de genres mixtes facilement distinguables par leurs cotes de mailles bleues pales et leurs halebardes avec un petit drapeau bleu et blanc monté.

@@ -1,3 +1,4 @@
+
 ```leaflet  
 id: FaronMap ### Must be unique with no spaces  
 image: [[FaronMapHexGridded.jpg]] ### Link to the map image file. Do not add a ! in front of the image  

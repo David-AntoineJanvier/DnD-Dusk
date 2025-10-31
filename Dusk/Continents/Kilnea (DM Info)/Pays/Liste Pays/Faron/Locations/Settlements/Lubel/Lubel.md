@@ -1,26 +1,30 @@
 Info:
 	Region: [[Faron Grasslands]]
 	Relative Age: 
-	Size: 7000
-	Population Est.: 
+	Size: Town
+	Population Est.: 7000
 	Races:
-		--placeholderrace
-	Faction(s): 
-	Leader figure:
-	Law enforcement:
+		Humans, Halflings
+	Faction(s): [[Vapomarchands]], Église de Mayael
+	Leader figure: [[Osimir Delparte]]
+	Law enforcement: [[Gardes de Lubel]]
 	
-	Religion:
-	Imports:
-		--placeholderimport
-	Exports:
-		--placeholderexports
+	Religion: Mayael of the Wind
+	Trade City
 
 Descriptions:
-	placeholder area
-		areadescription
-
-Important NPCs
-	placeholder
+	Ville: 
+		Une ville remplie de batiments en pièrre blanchie aux toîts rouge-orangé qui sont tousà
+	[[Vapomarchands]]
+		Des grands bateaux d'aciers avec des grandes roues de chaque côté qui mesurent une dixaine de mètres de haut
+	
+	
+Places:
+[[Au Gré Des Vents]]
+[[Auberge du Vieux Chêne]]
+[[Trading Docks]]
+[[Artisan District]]
+[[District de Traitement]]
 
 Party interactions:
 	Session#

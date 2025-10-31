@@ -31,7 +31,7 @@
     {
       "id": "FaronMap",
       "locked": false,
-      "lastAccessed": 1752167916617,
+      "lastAccessed": 1757002518250,
       "markers": [
         {
           "id": "ID_c84ad94bcaaa",
@@ -533,13 +533,16 @@
           "id": "ID_880ae9683968",
           "type": "POI",
           "loc": [
-            2846.944483578513,
-            6159.253617525423
+            2780,
+            6174.005741165119
           ],
           "layer": "%5B%5BFaronMap.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6174005741165118,
+            -0.278
+          ],
           "description": "Huntsman Hut",
           "minZoom": null,
           "maxZoom": null,
@@ -687,6 +690,23 @@
             0.6394,
             -0.0454
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb29998bca8b",
+          "type": "Exploration Locations",
+          "loc": [
+            2630.1875,
+            7843.400024122542
+          ],
+          "link": "Dahl Remnants",
+          "layer": "%5B%5BFaronMapHexGridded.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,

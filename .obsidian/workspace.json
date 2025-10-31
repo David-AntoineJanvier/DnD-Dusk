@@ -6,7 +6,6 @@
       {
         "id": "dde54c7cfaa61d46",
         "type": "tabs",
-        "dimension": 53.55029585798816,
         "children": [
           {
             "id": "df7f66f504b4adc0",
@@ -25,17 +24,47 @@
             }
           },
           {
-            "id": "47323335c34fe19d",
+            "id": "0a64a867d345a2ad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Session 4B.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 4B"
+            }
+          },
+          {
+            "id": "4464c5f9cbcea630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/Lubel.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Quests/La clé du puit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lubel"
+              "title": "La clé du puit"
+            }
+          },
+          {
+            "id": "eefc5da5a972f71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Blackwell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blackwell"
             }
           },
           {
@@ -54,59 +83,8 @@
               "title": "TESS X Hexcrawl Travel"
             }
           }
-        ]
-      },
-      {
-        "id": "36702f1cc576e31c",
-        "type": "tabs",
-        "dimension": 46.44970414201183,
-        "children": [
-          {
-            "id": "f3694978892b807d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/StoryArcs and Party Info/Group A/Party/Party A.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Party A"
-            }
-          },
-          {
-            "id": "0a64a867d345a2ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/StoryArcs and Party Info/Group B/Party/Party B.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Party B"
-            }
-          },
-          {
-            "id": "34415ca262270a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 2B.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2B"
-            }
-          }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session",
+                "query": "dahl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,6 +222,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -254,51 +233,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1876eb2abbcaac7",
+  "active": "0a64a867d345a2ad",
   "lastOpenFiles": [
-    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/Lubel.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Faron Grasslands.md",
-    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 2B.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Garnet Laret.md",
     "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Places/Mines de Kizan.md",
-    "Dusk/StoryArcs and Party Info/Group B/Party/Party B.md",
-    "Dusk/StoryArcs and Party Info/Group A/Party/Party A.md",
-    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Session 4A.md",
-    "Dusk/ZMGBIN/Pasted image 20250703174500.png",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Guiger Mog.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Blackwell.md",
+    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Session 4B.md",
+    "Dusk/Common/Items/Magic items/Unique/Book of Exalted Deeds.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits voyageurs/Liste/Xeelja, L'esprit Collectionneur.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Quests/La clé du puit.md",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/Quests/La bière des 50 brassées.md",
+    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 2/Beer Bandit.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Spirit Names list.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits.md",
+    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 1/Armored Bandit.md",
+    "Beer Bandit.md",
+    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 2B.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Le puit de Blackwell.md",
+    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 3B.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/People/Raphael DeShawn.md",
+    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Past/Session 1B.md",
+    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Session 5A.md",
+    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Past/Session 4A.md",
+    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Past/Untitled.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/People/Les chasseurs de l'Orge/Les chasseurs de l'Orge.md",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Dahl Remnants.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Kizan.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Milice Naine.md",
-    "OtherInfo/Monster Databank/Challenge Lvl -1/Challenge Lvl 1_4/Goblin.md",
-    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 1/Giant Spider.md",
-    "Dusk/Common/Items/Consummables/Potions/Potion of healing.md",
-    "Dusk/Common/Items/Magic items/Bag of Holding.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Dahl Magic Items List.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Réseau de cavernes annexes (Dahl Remnants).md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine/Garlet Laret.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Milice Naine",
-    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 1/Dahl Leaper.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Places/Mines de Kizan.md",
+    "Dusk/Common/Items/Magic items/Common/Silvered Weapon.md",
+    "Dusk/Common/Items/Magic items/Very Rare/Shield of the Cavalier.md",
+    "Dusk/Common/Items/Magic items/X/Ioun Stone",
+    "Dusk/Common/Items/Magic items/Unique",
+    "Dusk/Common/Items/Magic items/X",
+    "Dusk/Common/Items/Magic items/Legendary",
+    "Dusk/Common/Items/Magic items/Common",
+    "Dusk/Common/Items/Magic items/Very Rare",
+    "Dusk/Common/Items/Magic items/Uncommon",
+    "Dusk/Common/Items/Magic items/Rare",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lubel/People/Gardes de Lubel",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People/Vapomarchands",
+    "Dusk/ZMGBIN/Pasted image 20250703174500.png",
     "Dusk/ZMGBIN/Pasted image 20250703163508.png",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants",
-    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 3/Phase Spider.md",
     "Dusk/ZMGBIN/Pasted image 20250702163210.png",
-    "Dusk/Common/ZCustomMechanics/Spirit Glyphs/Primordial Glyphs/Night/Glyph of Grasping Dark.md",
-    "Dusk/StoryArcs and Party Info/Group A/Session planning and notes/Past/Session 3A.md",
-    "Dusk/Common/ZCustomMechanics/Spirit Glyphs/Primordial Glyphs/Night/Glyph of Binding (Medium).md",
     "Dusk/ZMGBIN/Pasted image 20250607160753.png",
     "Dusk/ZMGBIN/Pasted image 20250605201338.png",
     "Dusk/ZMGBIN/Pasted image 20250605201016.png",
     "Dusk/ZMGBIN/lomeipng.png",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/People/Les chasseurs de l'Orge",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Stuff to sort",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands/Westpoint/Places/Fabrique de cellules Sparklet",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands/Westpoint/Places",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands/Eastpoint",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands/Westpoint",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/Islands",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People/Guilde des VapoMarchands/Untitled",
     "Dusk/ZMGBIN/Pasted image 20250516144118.png",
     "Dusk/ZMGBIN/Pasted image 20250515105532.png",
     "Dusk/ZMGBIN/Pasted image 20250515105459.png",

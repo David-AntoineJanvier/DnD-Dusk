@@ -1,1 +1,3 @@
 Un groupe de bandits un peu broche à foin qui voyage à travers les bars de [[Faron Grasslands]] à la recherche de la meilleure bière
+
+Chef: [[Raphael DeShawn]]

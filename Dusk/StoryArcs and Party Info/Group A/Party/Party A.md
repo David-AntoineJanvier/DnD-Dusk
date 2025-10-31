@@ -27,9 +27,3 @@ actions:
 
 [[Garnet Laret]]   AC: 18 HP: 30 
 Collective Rations: 
-
-
-purp
-na
-purp
-red

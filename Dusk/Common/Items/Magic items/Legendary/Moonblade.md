@@ -1,0 +1,15 @@
+_Weapon (Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Legendary (Requires Attunement by a Creature of the Weapon’s Choice)_
+
+Of all the magic items created by elves, one of the most prized and jealously guarded is a _Moonblade_. In ancient times, nearly all elven noble houses claimed one such weapon. Over the centuries, some of these weapons have faded from the world, their magic lost as family lines have become extinct. Others have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
+
+Every _Moonblade_ longs for a bearer whose disposition and goals are compatible with its own. If you try to attune to a _Moonblade_ that doesn’t want you as its bearer, the weapon not only rejects you but also places a curse on you, causing you to make [D20 Tests](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#D20Test) with Disadvantage for 24 hours or until the curse is ended by a [Remove Curse](https://www.dndbeyond.com/spells/2618943-remove-curse) spell or similar magic. If you’re accepted by the weapon and try to attune to it, you become attuned to it instantly, and a new rune appears on it. You remain attuned to the weapon until you die or the weapon is destroyed. A _Moonblade_ functions like a nonmagical weapon of its kind for anyone other than its chosen bearer.
+
+A _Moonblade_ has one rune on it for each bearer it has willingly served (typically 1d6 + 1). The first rune grants a +1 bonus to attack rolls and damage rolls made with this magic weapon. Each rune beyond the first grants the _Moonblade_ an additional property. The DM chooses each property or determines it randomly by rolling on the Moonblade Properties table.
+
+**_Minor Property._** In addition to its aforementioned properties, each _Moonblade_ has a minor property determined by rolling on the Magic Item’s Minor Property table (see [earlier in this chapter](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#MagicItemsMinorProperty)).
+
+**_Sentience._** A _Moonblade_ is a sentient weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) out to 120 feet. Its alignment matches that of its creator.
+
+The weapon communicates by transmitting emotions, sending a tingling sensation through the wielder’s hand when it wants to communicate something it has sensed. It can communicate through visions or dreams when the wielder is either in a trance or asleep.
+
+**_Personality._** A _Moonblade_ has a personality similar to that of its creator. Once a _Moonblade_ has decided on an owner, it believes that only that person should wield it, even if the bearer’s alignment differs from that of the weapon’s or the bearer’s goals later clash with the weapon’s goals.

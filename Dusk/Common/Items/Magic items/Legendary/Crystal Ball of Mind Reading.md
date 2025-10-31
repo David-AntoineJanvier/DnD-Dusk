@@ -1,0 +1,3 @@
+_Wondrous Item, Legendary (Requires Attunement)_
+
+While touching this crystal orb, you can cast [Scrying](https://www.dndbeyond.com/spells/2619007-scrying) (save DC 17) with it. In addition, you can cast [Detect Thoughts](https://www.dndbeyond.com/spells/2619099-detect-thoughts) (save DC 17) targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this _Detect Thoughts_ spell to maintain it during its duration, but it ends if the _Scrying_ spell ends.
