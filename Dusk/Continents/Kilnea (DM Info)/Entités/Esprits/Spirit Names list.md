@@ -48,6 +48,5 @@ Yalit
 Yunuen
 Abarrane
 Apoxpalon
-Aquetzalli
 B'atz
 Cabrakan
