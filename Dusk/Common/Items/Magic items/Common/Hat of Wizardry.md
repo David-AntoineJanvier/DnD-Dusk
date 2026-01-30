@@ -1,4 +1,5 @@
 _Wondrous Item, Common (Requires Attunement by a Wizard)_
+#Common_MI 
 
 This cone-shaped hat is adorned with moons and stars. While you are wearing it, you gain the following benefits.
 

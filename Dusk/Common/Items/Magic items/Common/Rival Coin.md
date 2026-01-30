@@ -1,4 +1,5 @@
 _Wondrous Item, Common_
+#Common_MI 
 
 This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a _Rival Coin_ might show [Iggwilv](https://www.dndbeyond.com/sources/dnd/dmg-2024/lore-glossary#Iggwilv) on one side and [Mordenkainen](https://www.dndbeyond.com/sources/dnd/dmg-2024/lore-glossary#Mordenkainen) on the other, or [Venger](https://www.dndbeyond.com/sources/dnd/dmg-2024/lore-glossary#Venger) on one side and [Tiamat](https://www.dndbeyond.com/sources/dnd/dmg-2024/lore-glossary#Tiamat) on the other. One of these figures is on the “heads” side of the coin, the other on the “tails” side.
 

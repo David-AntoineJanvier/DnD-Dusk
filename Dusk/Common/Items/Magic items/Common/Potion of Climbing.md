@@ -1,4 +1,5 @@
 _Potion, Common_
+#Common_MI 
 
 When you drink this potion, you gain a Climb Speed equal to your Speed for 1 hour. During this time, you have Advantage on Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks to climb.
 

@@ -1,34 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "MapCalcExample",
-      "lastAccessed": 1749168535702,
-      "markers": [
-        {
-          "id": "ID_5bc8da5a3b58",
-          "type": "default",
-          "loc": [
-            825.59375,
-            449.27303708831437
-          ],
-          "link": "Lomei Hotel de Ville",
-          "layer": "%5B%5Blomeipng.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Lomei/Lomei.md"
-      ]
-    },
-    {
       "id": "FaronMap",
       "locked": false,
       "lastAccessed": 1757002518250,
@@ -717,6 +689,156 @@
       "shapes": [],
       "files": [
         "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md"
+      ]
+    },
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1769807262725,
+      "markers": [
+        {
+          "id": "ID_5bc8da5a3b58",
+          "type": "default",
+          "loc": [
+            825.59375,
+            449.27303708831437
+          ],
+          "link": "Lomei Hotel de Ville",
+          "layer": "%5B%5Blomeipng.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e979a9b8b8c9",
+          "type": "default",
+          "loc": [
+            996,
+            955
+          ],
+          "layer": "%5B%5Battica.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2269486692015209,
+            -0.2498745609633718
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1adbba0a6acb",
+          "type": "Exploration Locations",
+          "loc": [
+            992.7779207859128,
+            1035.2043276571058
+          ],
+          "layer": "%5B%5Battica.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24600863299836162,
+            -0.24906621193826212
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eae9fa687bd8",
+          "type": "Exploration Locations",
+          "loc": [
+            826.9945262280354,
+            804.5107402949944
+          ],
+          "layer": "%5B%5Battica.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Attica.md"
+      ]
+    },
+    {
+      "id": "atticamap",
+      "lastAccessed": 1769810610999,
+      "markers": [
+        {
+          "id": "ID_a98adbba4898",
+          "type": "Hostile Location",
+          "loc": [
+            993.5,
+            955.5
+          ],
+          "link": "Centrale de la Garde (Attica)",
+          "layer": "%5B%5Battica.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2270674904942966,
+            -0.2492473657802308
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_fb6bab88da19",
+          "type": "default",
+          "loc": [
+            1014,
+            1036
+          ],
+          "link": "La Baston de la Boisson",
+          "layer": "%5B%5Battica.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2461977186311787,
+            -0.25439036628198697
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_e90868494ab9",
+          "type": "POI",
+          "loc": [
+            1062.546875,
+            1330.75
+          ],
+          "link": "Guilde des voleurs de Faron",
+          "layer": "%5B%5Battica.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Attica.md"
       ]
     }
   ],

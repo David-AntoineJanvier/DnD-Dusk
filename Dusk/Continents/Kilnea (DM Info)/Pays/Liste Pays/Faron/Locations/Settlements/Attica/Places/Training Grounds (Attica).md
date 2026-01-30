@@ -1,0 +1,1 @@
+Endroit d'entraînement des gardes et lieu pour [[La Baston de la Boisson]].

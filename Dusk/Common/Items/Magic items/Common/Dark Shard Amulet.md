@@ -1,4 +1,5 @@
 _Wondrous Item, Common (Requires Attunement by a Warlock)_
+#Common_MI 
 
 This amulet is fashioned from a shard of resilient material originating from an otherworldly realm. While you are wearing it, you gain the following benefits.
 
