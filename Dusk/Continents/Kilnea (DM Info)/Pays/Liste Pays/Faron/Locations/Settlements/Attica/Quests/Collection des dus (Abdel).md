@@ -1,0 +1,1 @@
+[[Abdel Bendida]]  demande de collecter la dette de 1000g qui lui est due par un membre de la garde, [[]]

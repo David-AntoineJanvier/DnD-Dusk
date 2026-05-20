@@ -10,6 +10,8 @@ Info
 	Traits:
 		Un homme brutal et sec
 
+Il est aussi le chef de branche d'[[Attica]] pour la [[Guilde des voleurs de Faron]].
+
 Party A:
 
 Party B: 

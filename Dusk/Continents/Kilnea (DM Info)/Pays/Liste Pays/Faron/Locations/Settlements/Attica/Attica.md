@@ -23,6 +23,7 @@ Info:
 	Leader figure: [[Le conseil d'Attica]] / [[Bill Bogan]]
 	Law enforcement: La garde
 Quests 
+	[[Collection des dus (Abdel)]]
 	[[]]
 
 La ville d'[[Attica]] et ses résidents forment un groupe de résistance à la [[Monarchie de Faron]], ils savent que la monarchie est partiellement impliqué dans des kidnappings qui se passent partout dans Faron. 
@@ -32,8 +33,10 @@ La ville est remplie de brigands et de types louches, mais en général la ville
 En général, il est considéré suspicieux de poser des questions à propos de [[Bill Bogan]] puisqu'il est très bien connu de la plupars des habitants.
 
 
+
 Important NPCs 
 	[[Bill Bogan]]
+	[[Traitre de la guilde]]
 	[[]]
 
 Party interactions:

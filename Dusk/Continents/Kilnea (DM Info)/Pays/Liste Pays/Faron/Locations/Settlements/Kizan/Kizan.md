@@ -6,7 +6,7 @@ Info:
 	Races:
 		--Humains
 		--Nains
-	Faction(s): 
+	Faction(s):
 		Marchands
 		Mineurs
 		Artisants
@@ -24,6 +24,9 @@ Info:
 
 Descriptions:
 	Village plutôt rustique avec de maisons construites de charpente et de roches. Les rues sont généralements populées sans pour autant êtres bondées de gens.
+
+Events:
+	1: Les mineurs de [[Kizan]] ont découvert les [[Dahl Remnants]] par accident lors d'une excavation ce qui a permit aux [[Dahl Leaper]] et au [[Phase Spider]] de s'échapper dans les mines
 
 Important NPCs
 	[[Garpet Laret]]
