@@ -857,6 +857,341 @@
       "files": [
         "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Attica.md"
       ]
+    },
+    {
+      "id": "housef1",
+      "lastAccessed": 1779485057154,
+      "markers": [
+        {
+          "id": "ID_786bfacb097b",
+          "type": "POI",
+          "loc": [
+            480,
+            592
+          ],
+          "layer": "%5B%5BHouseF1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.14095238095238094,
+            -0.2
+          ],
+          "description": "1-",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Maison de Jacques de la gourde.md"
+      ]
+    },
+    {
+      "id": "mirrorroom",
+      "lastAccessed": 1779486565540,
+      "markers": [
+        {
+          "id": "ID_3bbbba3a287b",
+          "type": "POI",
+          "loc": [
+            1030,
+            882
+          ],
+          "layer": "%5B%5B2%20-%20MirrorRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21,
+            -0.42916666666666664
+          ],
+          "description": "Sur le mirroir il est inscrit, seul un homme aussi courtoi que Jacques obtient passage",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da7ae86ab9cb",
+          "type": "POI",
+          "loc": [
+            758,
+            1594
+          ],
+          "layer": "%5B%5B2%20-%20MirrorRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37952380952380954,
+            -0.31583333333333335
+          ],
+          "description": "Les barrils contiennent du vin de plutôt basse qualité voire même passé son age",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_284b5b9bb88b",
+          "type": "Exploration Locations",
+          "loc": [
+            987.1210665364205,
+            808.9301576774104
+          ],
+          "layer": "%5B%5B2%20-%20MirrorRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.19260241849462154,
+            -0.4113004443901752
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/2 - Mirror Room.md"
+      ]
+    },
+    {
+      "id": "archwayjdlg",
+      "lastAccessed": 1779486749142,
+      "markers": [
+        {
+          "id": "ID_b829ead8fb18",
+          "type": "Exploration Locations",
+          "loc": [
+            1148.3414126469534,
+            3710.896387667002
+          ],
+          "link": "2 - Mirror Room",
+          "layer": "%5B%5B3%20-%20QuiSuisJe.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8835467589683338,
+            -0.47847558860289724
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bebcb9b18b8",
+          "type": "POI",
+          "loc": [
+            1220,
+            726
+          ],
+          "layer": "%5B%5B3%20-%20QuiSuisJe.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17285714285714285,
+            -0.5083333333333333
+          ],
+          "description": "Une inscription dénote simplement: \"Qui suis-je ?\"",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a39ea488848",
+          "type": "Exploration Locations",
+          "loc": [
+            1117.09375,
+            716.5
+          ],
+          "layer": "%5B%5B3%20-%20QuiSuisJe.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/3 - Archway.md"
+      ]
+    },
+    {
+      "id": "arena jdlg",
+      "locked": false,
+      "lastAccessed": 1779488374506,
+      "markers": [
+        {
+          "id": "ID_abb95869f83a",
+          "type": "POI",
+          "loc": [
+            1343.5028842544405,
+            149.9066376115481
+          ],
+          "layer": "%5B%5B5%20-%20Arena.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.035692056574178115,
+            -0.5597928684393502
+          ],
+          "description": "Un code à six chiffre se présente sur un mécanisme dans la porte, il devient rouge de chaleur lorsque le mauvais code est entré (cause aussi une fireball dans l'autre pièce)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbca1b48883b",
+          "type": "Exploration Locations",
+          "loc": [
+            1130.0892188575756,
+            161.92745289171938
+          ],
+          "link": "6 - Office",
+          "layer": "%5B%5B5%20-%20Arena.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/5 - Arena.md"
+      ]
+    },
+    {
+      "id": "fieldsroom jdlg",
+      "lastAccessed": 1779488433220,
+      "markers": [
+        {
+          "id": "ID_5a3818b818d8",
+          "type": "POI",
+          "loc": [
+            1636.3776741871436,
+            1658.165401882454
+          ],
+          "layer": "%5B%5B4%20-%20FieldsRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Des ingrédients de différentes couleurs tel que : bleu, rouge, mauve, orange, brun, jaune et rose s'y trouvent",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_993bda191a6a",
+          "type": "POI",
+          "loc": [
+            851.3565645486033,
+            1063.4885989045677
+          ],
+          "layer": "%5B%5B4%20-%20FieldsRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2532115711677542,
+            -0.3547319018952514
+          ],
+          "description": "Des ingrédients de différentes couleurs tel que : bleu, rouge, mauve, orange, brun, jaune et rose s'y trouvent",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6be8b9680978",
+          "type": "POI",
+          "loc": [
+            828.7291475506338,
+            1380.272436876141
+          ],
+          "layer": "%5B%5B4%20-%20FieldsRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3286362944943193,
+            -0.34530381147943073
+          ],
+          "description": "Un parchemin lisant: \"À toi qui cherche ton chemin, imbibe toi avec les couleurs des plaines et rebrousse chemin\"",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bb98bd8b98b",
+          "type": "POI",
+          "loc": [
+            1380.272436876141,
+            724.0773439350247
+          ],
+          "layer": "%5B%5B4%20-%20FieldsRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17239936760357732,
+            -0.5751135153650587
+          ],
+          "description": "Porte qui amène les PC à la prochaine pièce s'ils se sont mit de la concotion verte sur eux",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a98959297b3a",
+          "type": "Exploration Locations",
+          "loc": [
+            1120.0571413994915,
+            721.2489168102785
+          ],
+          "link": "5 - Arena",
+          "layer": "%5B%5B4%20-%20FieldsRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17172593257387583,
+            -0.46669047558312143
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aaa799aa8a8",
+          "type": "default",
+          "loc": [
+            1255.8216433873085,
+            707.1067811865476
+          ],
+          "layer": "%5B%5B4%20-%20FieldsRoom.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16835875742536846,
+            -0.5232590180780452
+          ],
+          "description": "La portail mène sur un mur qui à l'air plutôt normal",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/4 - FieldsRoom.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -936,7 +1271,59 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[4 - FieldsRoom.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[4 - FieldsRoom.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "fieldsroom jdlg",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2400,
+        4200
+      ]
+    ],
+    "width": "95%",
+    "lat": 1024,
+    "long": 821,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

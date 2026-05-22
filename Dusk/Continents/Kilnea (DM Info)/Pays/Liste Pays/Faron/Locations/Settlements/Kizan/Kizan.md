@@ -33,7 +33,13 @@ Important NPCs
 	[[Garnet Laret]]
 	[[Garlet Laret]]
 	[[Guiger Mog]]
+	[[Jacques de la Gourde]]
+
+Dungeons:
+	[[Maison de Jacques de la gourde]]
 
 Party interactions:
 	Session 3A
 		Le groupe est resté dans une auberge avant d'allé voir un marchant général que [[Mille-Étoile]] à menacé menant à l'appel d'un garde de la [[Milice Naine]]. Le groupe apprend aussi l'existance de [[Garpet Laret]]
+
+![[Pasted image 20260522172634.png]]
