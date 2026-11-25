@@ -42,3 +42,6 @@ Important NPCs
 Party interactions:
 	Session#
 		desc
+
+[[attica.png]]
+![[watchtowersattica.png]]

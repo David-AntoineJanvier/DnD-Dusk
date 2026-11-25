@@ -1,4 +1,4 @@
-	Humains
++	Humains
 	Monarchie
 	Climat Tempéré
 

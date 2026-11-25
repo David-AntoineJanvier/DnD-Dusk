@@ -8,24 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b386ea6fa7606cd1",
+            "id": "ae0736d606ed2872",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/StoryArcs and Party Info/Group B/Party/Party B.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Party B"
+              "title": "FaronInteractiveMap"
             }
           },
           {
             "id": "750027644cb72eb9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,78 +34,9 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TESS X Hexcrawl Travel"
-            }
-          },
-          {
-            "id": "1ade42c80a5dca87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/StoryArcs and Party Info/Common/Main Story/Setting/Setting (Player Ver.).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setting (Player Ver.)"
-            }
-          },
-          {
-            "id": "e05226ca36e67a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Attica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attica"
-            }
-          },
-          {
-            "id": "a883c80109940c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Session 6B.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 6B"
-            }
-          },
-          {
-            "id": "1a1863d49229d0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Quests/La clé du puit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La clé du puit"
-            }
-          },
-          {
-            "id": "d568dc48143c4077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/People/Abdel Bendida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abdel Bendida"
             }
           },
           {
@@ -122,34 +54,77 @@
             }
           },
           {
-            "id": "f5f53f76e22f1854",
+            "id": "b595c7eaa3ba1235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/4 - FieldsRoom.md",
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Ravia/Ravia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - FieldsRoom"
+              "title": "Ravia"
             }
           },
           {
-            "id": "35c1489909692a86",
+            "id": "f7385466cce5a499",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "DB.base",
-                "viewName": "Table"
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Quests/Traitre de la guilde.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "DB"
+              "icon": "lucide-file",
+              "title": "Traitre de la guilde"
+            }
+          },
+          {
+            "id": "44ee7deb7d9e530a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People/Vapomarchands/Guilde des Vapomarchands d'Oryx/Guilde des Vapomarchands d'Oryx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guilde des Vapomarchands d'Oryx"
+            }
+          },
+          {
+            "id": "2f38fb6543f8df4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/People/Bill Bogan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bill Bogan"
+            }
+          },
+          {
+            "id": "fc944591603b5f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/Baril Fumé.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baril Fumé"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -169,7 +144,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setting",
+                "query": "attica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,53 +275,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5f53f76e22f1854",
+  "active": "fc944591603b5f64",
   "lastOpenFiles": [
-    "Dusk/ZMGBIN/Pasted image 20260522172634.png",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/4 - FieldsRoom.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/5 - Arena.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/6 - Office.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/6 - Office.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/3 - Archway.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/3 - QuiSuisJe.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/2 - Mirror Room.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Kizan.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Maison de Jacques de la gourde.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Untitled/Untitled",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/2 - MirrorRoom.jpg",
-    "Dusk/Common/Disposable/Dead/Jacques de la Gourde.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms",
-    "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/HouseF1.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/5 - Arena.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/4 - FieldsRoom.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images/HouseOpened.jpg",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/images",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Untitled",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon",
-    "DB.base",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/People/Eopold Vlikar.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Blackwell/Quests/La clé du puit.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/People/Abdel Bendida.md",
-    "Dusk/StoryArcs and Party Info/Group B/Session planning and notes/Session 6B.md",
-    "Dusk/Continents/Alux, true land of spirits/Alux.md",
-    "OtherInfo/Monster Databank/Challenge Lvl -1/Challenge Lvl 1_8/Abyssal Cultist.md",
-    "Untitled.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Guiger Mog.md",
-    "OtherInfo/Monster Databank/Challenge Lvl 1-7/Challenge Lvl 1/Dahl Leaper.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Ruins/Dahl Remnants/Dahl Remnants.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/BarilFume.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/outside.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1FullSecret.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1Full.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/Baril Fumé.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Training Grounds (Attica).md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Centrale de la Garde (Attica).md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1_autosave.dam",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1Full_autosave.dam",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1FullSecret.dam",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1Full.dam",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/VLB1.dam",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica/BarilFume.dam",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé/VLAttica",
     "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Attica.md",
-    "Dusk/StoryArcs and Party Info/Common/Main Story/Setting/Setting (Player Ver.).md",
-    "Dusk/StoryArcs and Party Info/Group B/Party/Party B.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Baril Fumé",
+    "Dusk/ZMGBIN/watchtowersattica.png",
     "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronInteractiveMap.md",
-    "Dusk/StoryArcs and Party Info/Group C",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Named Locations/Wurmwater Bay.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Named Locations/Barrière de Corrail de Lomei.md",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/People/La garde",
-    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/People/Guilde des voleurs de Faron",
+    "Dusk/Common/ZCustomMechanics/TESS X Hexcrawl Travel.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Kizan.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Ravia/Ravia.md",
+    "DB.base",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/People/Bill Bogan.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Quests/Traitre de la guilde.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Quests/Collection des dus (Abdel).md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Places/Untitled.md",
     "Dusk/ZMGBIN/attica.png",
-    "Dusk/ZMGBIN/Pasted image 20250703174500.png",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Attica/Events/La Baston de la Boisson.md",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Faron/FaronMapHexGridded.jpg",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/People/Guiger Mog.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Knox/People/Vapomarchands/Guilde des Vapomarchands d'Oryx/Guilde des Vapomarchands d'Oryx.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Sarn/People/Bandits de la Charnière Grinçante/Gram Sterack.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Aeswynn/Aeswynn.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Regionless/Races/Balks.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Wanderwine/WanderWine.md",
+    "Dusk/Continents/Kilnea (DM Info)/Entités/Esprits/Esprits anciens/Liste/Aquetzalli (flow).md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Faron Grasslands.md",
+    "Dusk/Common/JDLG/Outposts/Kizan/Findings 1C.md",
+    "Dusk/Continents/Kilnea (DM Info)/Pays/Liste Pays/Faron/Locations/Settlements/Kizan/Dungeon/Maison de JDLG/Rooms/6 - Office.md",
+    "Dusk/Common/JDLG/Outposts/Kizan/Kizan Outpost JDLG.md",
+    "Dusk/Common/JDLG/Outposts/Kizan",
+    "Dusk/Continents/Kilnea (DM Info)/Maps/By Region/Aeswyyn/Dahlet.md",
+    "Dusk/ZMGBIN/Pasted image 20260603164722.png",
+    "Dusk/ZMGBIN/Pasted image 20260603164607.png",
     "OtherInfo/Monster Databank/ZMGBIN/Test canvas.canvas"
   ]
 }

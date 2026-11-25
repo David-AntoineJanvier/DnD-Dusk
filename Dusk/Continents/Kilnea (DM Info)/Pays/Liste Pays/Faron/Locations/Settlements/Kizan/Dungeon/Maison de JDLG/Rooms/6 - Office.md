@@ -16,3 +16,6 @@ scale: 0.09328358208955223 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ### marker
 ```
+
+Après avoir eu 75 Tot les joeurs obtiennent les info suivantes: 
+

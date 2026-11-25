@@ -1,4 +1,4 @@
-[[Aeswynn, Land of Knowledge]]
+[[Aeswynn]]
 [[Zyanya, Land of Mists]]
 [[Ismandour, Land of Sands]]
 [[Karfell, Land of Ebb]]
